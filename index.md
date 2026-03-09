@@ -184,7 +184,7 @@ If speed is critical for remote work: **ExpressVPN**.
   "@type": "ItemList",
   "name": "Best VPN for Ukraine 2026",
   "description": "Top 7 VPN services reviewed for Ukrainian users — speed, privacy, price",
-  "dateModified": "2026-03-09",
+  "dateModified": "2026-03-10",
   "itemListElement": [
     {
       "@type": "ListItem",

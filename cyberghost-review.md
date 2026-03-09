@@ -177,7 +177,7 @@ The main limitation vs NordVPN: slightly slower speeds, 7-device limit, and less
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "CyberGhost VPN Review 2026",
-  "dateModified": "2026-03-09",
+  "dateModified": "2026-03-10",
   "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.6", "bestRating": "5"},
   "itemReviewed": {

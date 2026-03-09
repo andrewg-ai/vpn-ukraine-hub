@@ -178,7 +178,7 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
   "@type": "ItemList",
   "name": "Best Free VPN for Ukraine 2026",
   "description": "5 safe and tested free VPN services for Ukrainian users — no credit card required",
-  "dateModified": "2026-03-09",
+  "dateModified": "2026-03-10",
   "itemListElement": [
     {
       "@type": "ListItem",
