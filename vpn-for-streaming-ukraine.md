@@ -69,7 +69,7 @@ NordVPN delivers ExpressVPN-level streaming performance at 40% lower cost. Smart
 
 **SmartPlay explained:** When you connect to any NordVPN server and open Netflix, SmartPlay automatically handles the routing — you don't need to manually select a "Netflix server." This makes it more beginner-friendly than some competitors.
 
-**[→ Try NordVPN for Streaming](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Try NordVPN for Streaming](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 
@@ -209,7 +209,7 @@ For streaming from Ukraine in 2026:
       "@type": "ListItem", "position": 2,
       "item": {"@type": "SoftwareApplication", "name": "NordVPN",
         "offers": {"@type": "Offer", "price": "3.99", "priceCurrency": "USD"},
-        "url": "https://YOUR-NORDVPN-AFFILIATE-LINK"}
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"}
     },
     {
       "@type": "ListItem", "position": 3,

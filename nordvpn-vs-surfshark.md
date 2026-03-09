@@ -36,7 +36,7 @@ Surfshark is **37% cheaper** on the 2-year plan. Over 2 years that's ~$35 saved 
 **Winner: Surfshark 💰**
 
 **[→ Get Surfshark — 82% Off Today](https://YOUR-SURFSHARK-AFFILIATE-LINK)**
-**[→ Get NordVPN — 67% Off Today](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Get NordVPN — 67% Off Today](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 
@@ -146,7 +146,7 @@ Both apps are available on Windows, Mac, iOS, Android, Linux, and browser extens
 - Use VPN for business or remote work requiring consistent speeds
 - Already have many other subscriptions and budget isn't a concern
 
-**[→ Try NordVPN — 30-Day Money Back Guarantee](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Try NordVPN — 30-Day Money Back Guarantee](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ### Choose Surfshark if you:
 - Want the best price-to-value ratio

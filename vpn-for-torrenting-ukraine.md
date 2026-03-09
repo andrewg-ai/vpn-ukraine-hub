@@ -56,7 +56,7 @@ NordVPN automatically routes P2P traffic through dedicated P2P-optimized servers
 
 **Practical tip:** NordVPN's Threat Protection scanning downloaded torrent files for malware is a genuine value-add — torrent sites have high malware rates.
 
-**[→ Get NordVPN for Torrenting](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Get NordVPN for Torrenting](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 

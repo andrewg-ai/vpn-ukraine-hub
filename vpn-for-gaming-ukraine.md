@@ -48,7 +48,7 @@ NordVPN's NordLynx protocol delivers the lowest latency of any VPN when gaming t
 - Germany Frankfurt: ~38ms — good for EU servers
 - Netherlands: ~52ms — backup EU option
 
-**[→ Try NordVPN for Gaming](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Try NordVPN for Gaming](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 

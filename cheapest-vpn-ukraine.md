@@ -84,7 +84,7 @@ Slightly above $3/month but worth including — NordVPN delivers the best overal
 - Double VPN for extra security
 - Audited no-logs policy (PricewaterhouseCoopers)
 
-**[→ Get NordVPN — 67% Off](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Get NordVPN — 67% Off](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 

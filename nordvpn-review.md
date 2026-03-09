@@ -98,7 +98,7 @@ NordVPN apps are available on every platform:
 
 For most Ukrainian users: **Basic plan** at $3.99/month covers all VPN needs.
 
-**[→ Get NordVPN — 67% Off + 3 Months Free](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Get NordVPN — 67% Off + 3 Months Free](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 
@@ -171,7 +171,7 @@ NordVPN is the best all-around VPN for Ukrainian users in 2026. Fastest speeds t
 
 The only reason to choose a competitor: Surfshark if you need unlimited device connections at lower cost, or ExpressVPN if streaming reliability is your absolute top priority.
 
-**[→ Try NordVPN — 30-Day Money Back Guarantee](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Try NordVPN — 30-Day Money Back Guarantee](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 
@@ -192,7 +192,7 @@ The only reason to choose a competitor: Surfshark if you need unlimited device c
     "name": "NordVPN",
     "applicationCategory": "SecurityApplication",
     "offers": {"@type": "Offer", "price": "3.99", "priceCurrency": "USD"},
-    "url": "https://YOUR-NORDVPN-AFFILIATE-LINK"
+    "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"
   },
   "mainEntity": {
     "@type": "FAQPage",

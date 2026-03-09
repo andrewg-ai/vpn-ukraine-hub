@@ -33,7 +33,7 @@ Ukraine has unique VPN needs: protection from surveillance, bypassing geo-restri
 
 **Pricing:** From $3.99/month (2-year plan) | 30-day money-back guarantee
 
-**[→ Try NordVPN — 67% Off Today](https://YOUR-NORDVPN-AFFILIATE-LINK)**
+**[→ Try NordVPN — 67% Off Today](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
 
 ---
 
@@ -195,7 +195,7 @@ If speed is critical for remote work: **ExpressVPN**.
         "applicationCategory": "SecurityApplication",
         "offers": {"@type": "Offer", "price": "3.99", "priceCurrency": "USD"},
         "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "180000"},
-        "url": "https://YOUR-NORDVPN-AFFILIATE-LINK"
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"
       }
     },
     {
