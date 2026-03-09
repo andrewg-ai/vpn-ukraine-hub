@@ -184,7 +184,7 @@ The only reason to choose a competitor: Surfshark if you need unlimited device c
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "NordVPN Review 2026",
-  "dateModified": "2026-03-08",
+  "dateModified": "2026-03-09",
   "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.9", "bestRating": "5"},
   "itemReviewed": {

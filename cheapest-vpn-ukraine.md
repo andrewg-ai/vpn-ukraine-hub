@@ -154,7 +154,7 @@ If you're a power user: **PIA** ($2.03/month) with open-source clients and port 
   "@type": "ItemList",
   "name": "Cheapest VPN for Ukraine 2026",
   "description": "Best budget VPN services under $3/month for Ukrainian users",
-  "dateModified": "2026-03-08",
+  "dateModified": "2026-03-09",
   "itemListElement": [
     {
       "@type": "ListItem",
