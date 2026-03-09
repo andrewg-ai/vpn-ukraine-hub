@@ -43,7 +43,7 @@ The 5 below have clear business models (paid upgrades), published privacy polici
 
 **Limitations:** Medium speed on free servers (paid users get priority). No streaming-optimized servers on free plan.
 
-**[→ Get ProtonVPN Free — No Credit Card](https://YOUR-PROTONVPN-AFFILIATE-LINK)**
+**[→ Get ProtonVPN Free — No Credit Card](https://go.getproton.me/aff_c?offer_id=26&aff_id=16729)**
 
 ---
 
@@ -189,7 +189,7 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
         "applicationCategory": "SecurityApplication",
         "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
         "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "60000"},
-        "url": "https://YOUR-PROTONVPN-AFFILIATE-LINK"
+        "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"
       }
     },
     {

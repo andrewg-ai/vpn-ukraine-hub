@@ -53,7 +53,7 @@ ProtonVPN is one of the only VPNs with a free plan worth using. Most "free VPNs"
 
 **For Ukrainian users:** ProtonVPN Free with Poland server gives a usable, genuinely private VPN at zero cost. For basic privacy — encrypting traffic on public WiFi, accessing blocked content — it's sufficient.
 
-**[→ Try ProtonVPN Free — No Credit Card](https://YOUR-PROTONVPN-AFFILIATE-LINK)**
+**[→ Try ProtonVPN Free — No Credit Card](https://go.getproton.me/aff_c?offer_id=26&aff_id=16729)**
 
 ---
 
@@ -176,7 +176,7 @@ ProtonVPN is the best VPN for Ukrainian users who prioritize privacy over raw pe
 
 For journalists, activists, and anyone handling sensitive content in Ukraine — ProtonVPN is the recommended choice. For general users who want the fastest speeds and best streaming — NordVPN offers better value.
 
-**[→ Try ProtonVPN — Free Plan Available](https://YOUR-PROTONVPN-AFFILIATE-LINK)**
+**[→ Try ProtonVPN — Free Plan Available](https://go.getproton.me/aff_c?offer_id=26&aff_id=16729)**
 
 ---
 
@@ -197,7 +197,7 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
     "name": "ProtonVPN",
     "applicationCategory": "SecurityApplication",
     "offers": {"@type": "Offer", "price": "4.99", "priceCurrency": "USD"},
-    "url": "https://YOUR-PROTONVPN-AFFILIATE-LINK"
+    "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"
   },
   "mainEntity": {
     "@type": "FAQPage",

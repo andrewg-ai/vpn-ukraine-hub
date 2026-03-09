@@ -87,7 +87,7 @@ Ukraine has unique VPN needs: protection from surveillance, bypassing geo-restri
 
 **Pricing:** Free tier available | From $4.99/month for Plus plan
 
-**[→ Try ProtonVPN Free](https://YOUR-PROTONVPN-AFFILIATE-LINK)**
+**[→ Try ProtonVPN Free](https://go.getproton.me/aff_c?offer_id=26&aff_id=16729)**
 
 ---
 
@@ -231,7 +231,7 @@ If speed is critical for remote work: **ExpressVPN**.
         "applicationCategory": "SecurityApplication",
         "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
         "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "60000"},
-        "url": "https://YOUR-PROTONVPN-AFFILIATE-LINK"
+        "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"
       }
     },
     {

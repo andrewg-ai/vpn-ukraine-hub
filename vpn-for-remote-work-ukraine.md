@@ -105,7 +105,7 @@ Remote work from Ukraine in 2026 has specific requirements that differ from casu
 
 **Pricing:** From $4.99/month (Plus plan)
 
-**[→ Try ProtonVPN for Secure Remote Work](https://YOUR-PROTONVPN-AFFILIATE-LINK)**
+**[→ Try ProtonVPN for Secure Remote Work](https://go.getproton.me/aff_c?offer_id=26&aff_id=16729)**
 
 ---
 
