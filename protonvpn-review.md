@@ -189,7 +189,7 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "ProtonVPN Review 2026",
-  "dateModified": "2026-03-10",
+  "dateModified": "2026-03-11",
   "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.7", "bestRating": "5"},
   "itemReviewed": {
