@@ -19,7 +19,7 @@ PureVPN is one of the oldest VPN services still operating — founded in 2007, i
 | **Money-back** | 31 days |
 | **Our rating** | ⭐ 4.1/5 |
 
-**[→ Try PureVPN — 31-Day Money Back](https://YOUR-PUREVPN-AFFILIATE-LINK)**
+**[→ Try PureVPN — 31-Day Money Back](https://billing.purevpn.com/aff.php?aff=49387527)**
 
 ---
 
@@ -70,7 +70,7 @@ At $2.08/month (5-year plan), the price is compelling but the 5-year commitment 
 
 **Best use case for Ukrainian users:** If you want a large server network (6,500+) at budget pricing and don't need maximum privacy guarantees — PureVPN delivers. For serious privacy needs, choose NordVPN or ProtonVPN.
 
-**[→ Try PureVPN — 31-Day Money Back](https://YOUR-PUREVPN-AFFILIATE-LINK)**
+**[→ Try PureVPN — 31-Day Money Back](https://billing.purevpn.com/aff.php?aff=49387527)**
 
 ---
 
@@ -101,7 +101,7 @@ A: Yes — PureVPN works from Ukraine with good performance to EU servers. Ukrai
     "name": "PureVPN",
     "applicationCategory": "SecurityApplication",
     "offers": {"@type": "Offer", "price": "2.08", "priceCurrency": "USD"},
-    "url": "https://YOUR-PUREVPN-AFFILIATE-LINK"
+    "url": "https://billing.purevpn.com/aff.php?aff=49387527"
   }
 }
 </script>
