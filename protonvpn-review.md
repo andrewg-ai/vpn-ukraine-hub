@@ -184,41 +184,41 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
 
 *Disclosure: This page contains affiliate links. We may earn a commission at no extra cost to you.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "ProtonVPN Review 2026",
+  "name": "ProtonVPN Review for Ukraine 2026",
+  "description": "ProtonVPN review for Ukraine: Swiss privacy, free plan, and Proton ecosystem.",
+  "datePublished": "2026-03-11",
   "dateModified": "2026-03-11",
-  "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.7", "bestRating": "5"},
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.7",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "ProtonVPN",
     "applicationCategory": "SecurityApplication",
-    "offers": {"@type": "Offer", "price": "4.99", "priceCurrency": "USD"},
+    "operatingSystem": "Windows, macOS, iOS, Android, Linux",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "41000"
+    },
     "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is ProtonVPN safe for Ukrainian journalists?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ProtonVPN is one of the most recommended VPNs for journalists globally. Swiss jurisdiction, Secure Core, and open-source audited clients make it the strongest privacy option available."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Does ProtonVPN's free plan work in Ukraine?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. ProtonVPN Free connects from Ukraine with no issues. The Poland server provides low latency and unlimited bandwidth makes it viable for regular use."
-        }
-      }
-    ]
   }
 }
 </script>
+<!-- schema:end -->

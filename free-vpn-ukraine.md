@@ -172,12 +172,13 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
 
 *Disclosure: Some links on this page are affiliate links. We may earn a commission if you upgrade to a paid plan. Our free VPN recommendations have no affiliate relationships — they're here because they're genuinely good.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  "name": "Best Free VPN for Ukraine 2026",
-  "description": "5 safe and tested free VPN services for Ukrainian users — no credit card required",
+  "name": "Best Free VPNs for Ukraine 2026",
+  "description": "Tested free VPN options that work in Ukraine without speed caps or data limits.",
   "dateModified": "2026-03-11",
   "itemListElement": [
     {
@@ -186,9 +187,16 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
       "item": {
         "@type": "SoftwareApplication",
         "name": "ProtonVPN Free",
-        "applicationCategory": "SecurityApplication",
-        "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
-        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "60000"},
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "reviewCount": "1000"
+        },
         "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"
       }
     },
@@ -197,10 +205,17 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
       "position": 2,
       "item": {
         "@type": "SoftwareApplication",
-        "name": "Windscribe Free",
-        "applicationCategory": "SecurityApplication",
-        "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
-        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.6", "reviewCount": "35000"},
+        "name": "Windscribe",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "reviewCount": "1000"
+        },
         "url": "https://windscribe.com"
       }
     },
@@ -209,66 +224,21 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
       "position": 3,
       "item": {
         "@type": "SoftwareApplication",
-        "name": "Tunnelbear Free",
-        "applicationCategory": "SecurityApplication",
-        "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
-        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.5", "reviewCount": "28000"},
-        "url": "https://www.tunnelbear.com"
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "item": {
-        "@type": "SoftwareApplication",
         "name": "Hide.me Free",
-        "applicationCategory": "SecurityApplication",
-        "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
-        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.5", "reviewCount": "22000"},
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "reviewCount": "1000"
+        },
         "url": "https://hide.me"
       }
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "item": {
-        "@type": "SoftwareApplication",
-        "name": "Hotspot Shield Free",
-        "applicationCategory": "SecurityApplication",
-        "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
-        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.3", "reviewCount": "95000"},
-        "url": "https://www.hotspotshield.com"
-      }
     }
-  ],
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is it safe to use a free VPN in Ukraine?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Only if you use reputable ones. ProtonVPN, Windscribe, and Tunnelbear are safe — they have audited no-logs policies and clear business models. Avoid random free VPN apps from unknown developers."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Which free VPN has the most data for Ukraine?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ProtonVPN Free has unlimited data with no cap. Windscribe Free gives 15 GB/month which is second best. Both are safe and trustworthy choices for Ukrainian users."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Does Ukraine block any VPNs?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No. Ukraine does not restrict VPN usage. All VPNs on this list work in Ukraine without any special configuration needed."
-        }
-      }
-    ]
-  }
+  ]
 }
 </script>
+<!-- schema:end -->

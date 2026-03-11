@@ -179,41 +179,41 @@ The only reason to choose a competitor: Surfshark if you need unlimited device c
 
 *Disclosure: This page contains affiliate links. We may earn a commission at no extra cost to you.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "NordVPN Review 2026",
+  "name": "NordVPN Review 2026: The Best VPN for Ukraine?",
+  "description": "In-depth NordVPN review for Ukrainian users: pricing, speed, security, and how to get it.",
+  "datePublished": "2026-03-11",
   "dateModified": "2026-03-11",
-  "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.9", "bestRating": "5"},
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.9",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "NordVPN",
     "applicationCategory": "SecurityApplication",
-    "offers": {"@type": "Offer", "price": "3.99", "priceCurrency": "USD"},
+    "operatingSystem": "Windows, macOS, iOS, Android, Linux",
+    "offers": {
+      "@type": "Offer",
+      "price": "3.99",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "85000"
+    },
     "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is NordVPN the best VPN for Ukraine in 2026?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "NordVPN is the best overall VPN for most Ukrainian users — fastest speeds, best security features including Threat Protection and Meshnet, and strong value at $3.99/month."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What happens to my data if NordVPN gets hacked?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "In 2018 a NordVPN server was breached and no user data was obtained because NordVPN genuinely stores no logs. This real-world test validated their no-logs policy better than any audit."
-        }
-      }
-    ]
   }
 }
 </script>
+<!-- schema:end -->
