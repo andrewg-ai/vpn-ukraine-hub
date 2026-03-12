@@ -2,6 +2,21 @@
 
 > Last updated: March 2026 | Author: VPN Ukraine Hub
 
+---
+> ### 💰 Cheapest VPN for Ukraine — Best Value
+> **from $2.29/month** · Top 5 cheapest · Full features · No compromises
+>
+> **[→ Get PureVPN — Best Value](https://billing.purevpn.com/aff.php?aff=49387527)**
+
+---
+## Table of Contents
+- [Top 5 Cheapest VPNs](#top-5-cheapest-vpns)
+- [PureVPN](#purevpn--229month)
+- [Surfshark](#surfshark--249month)
+- [NordVPN](#nordvpn--399month)
+- [FAQ](#faq)
+- [Verdict](#verdict)
+
 You don't need to spend $10/month on a VPN. The cheapest VPNs in 2026 offer the same core security as premium options — just with longer commitment plans. This guide covers the best budget VPNs available to Ukrainian users, all under $3/month on long-term plans.
 
 ## Quick Comparison: Cheapest VPNs for Ukraine

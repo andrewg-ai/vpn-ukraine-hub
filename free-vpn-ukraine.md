@@ -2,6 +2,21 @@
 
 > Last updated: March 2026 | Author: VPN Ukraine Hub
 
+---
+> ### 🆓 Best Free VPN for Ukraine — No Tricks
+> **Free forever** · No data limits · No logs · No ads
+>
+> **[→ Try ProtonVPN Free](https://go.getproton.me/aff_c?offer_id=26&aff_id=16729)**
+
+---
+## Table of Contents
+- [Top Free VPNs](#top-free-vpns-for-ukraine)
+- [ProtonVPN Free](#protonvpn-free)
+- [Why Free VPNs Are Dangerous](#why-most-free-vpns-are-dangerous)
+- [Free vs Paid](#free-vs-paid-vpn)
+- [FAQ](#faq)
+- [Verdict](#verdict)
+
 Most "free VPN" services are data-harvesting traps. This guide covers only the 5 free VPNs that are genuinely safe for Ukrainian users — tested in 2026, no credit card required.
 
 ## Quick Comparison: Best Free VPNs for Ukraine

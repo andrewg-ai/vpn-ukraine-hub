@@ -2,6 +2,20 @@
 
 > Last updated: March 2026 | Author: VPN Ukraine Hub
 
+---
+> ### 🔧 VPN Protocols Explained 2026
+> **NordVPN uses NordLynx (fastest)** · WireGuard · OpenVPN · IKEv2 · Lightway
+>
+> **[→ Try NordVPN with NordLynx](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902)**
+
+---
+## Table of Contents
+- [WireGuard / NordLynx](#wireguard--nordlynx)
+- [OpenVPN](#openvpn)
+- [IKEv2](#ikev2)
+- [Which Protocol to Choose](#which-protocol-to-choose)
+- [FAQ](#faq)
+
 When you connect to a VPN, you're choosing a protocol — the method used to encrypt and route your traffic. The right protocol makes the difference between a fast, stable connection and a slow, unreliable one. This guide explains every major VPN protocol in plain language, with recommendations for Ukrainian users.
 
 ## Quick Reference
