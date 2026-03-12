@@ -104,7 +104,7 @@ NordVPN і Surfshark — найстабільніші для BBC iPlayer. IPVani
   "name": "VPN для Стрімінгу в Україні 2026",
   "description": "Кращі VPN для перегляду Netflix US, BBC iPlayer і Disney+ з України.",
   "inLanguage": "uk",
-  "dateModified": "2026-03-11",
+  "dateModified": "2026-03-12",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "item": {"@type": "SoftwareApplication", "name": "NordVPN", "offers": {"@type": "Offer", "price": "3.99", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "85000"}, "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"}},
     {"@type": "ListItem", "position": 2, "item": {"@type": "SoftwareApplication", "name": "Surfshark", "offers": {"@type": "Offer", "price": "2.49", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "62000"}}},

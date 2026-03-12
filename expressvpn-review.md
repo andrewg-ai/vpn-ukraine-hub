@@ -179,7 +179,7 @@ The only reason it's not rated higher: NordVPN delivers 95% of the same performa
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "ExpressVPN Review 2026",
-  "dateModified": "2026-03-11",
+  "dateModified": "2026-03-12",
   "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"},
   "itemReviewed": {

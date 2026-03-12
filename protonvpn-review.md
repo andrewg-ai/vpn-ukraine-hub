@@ -192,7 +192,7 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
   "name": "ProtonVPN Review for Ukraine 2026",
   "description": "ProtonVPN review for Ukraine: Swiss privacy, free plan, and Proton ecosystem.",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-11",
+  "dateModified": "2026-03-12",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

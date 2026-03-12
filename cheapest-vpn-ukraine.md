@@ -155,7 +155,7 @@ If you're a power user: **PIA** ($2.03/month) with open-source clients and port 
   "@type": "ItemList",
   "name": "5 Cheapest VPNs for Ukraine 2026",
   "description": "Best budget VPNs available in Ukraine with real pricing and Payoneer-friendly affiliate programs.",
-  "dateModified": "2026-03-11",
+  "dateModified": "2026-03-12",
   "itemListElement": [
     {
       "@type": "ListItem",
