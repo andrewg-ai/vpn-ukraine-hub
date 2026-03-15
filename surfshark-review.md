@@ -231,7 +231,7 @@ The main reasons to choose NordVPN over Surfshark are Meshnet and more comprehen
   "name": "Surfshark Review for Ukraine 2026",
   "description": "Surfshark VPN review for Ukrainian users: unlimited devices, pricing, and performance.",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-12",
+  "dateModified": "2026-03-15",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

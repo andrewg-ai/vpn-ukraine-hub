@@ -206,7 +206,7 @@ If you handle sensitive client data: **ProtonVPN** (Swiss jurisdiction, Secure C
   "@type": "ItemList",
   "name": "Best VPN for Remote Work in Ukraine 2026",
   "description": "Top 5 VPN services for Ukrainian remote workers — speed, corporate features, and reliability",
-  "dateModified": "2026-03-12",
+  "dateModified": "2026-03-15",
   "itemListElement": [
     {
       "@type": "ListItem",

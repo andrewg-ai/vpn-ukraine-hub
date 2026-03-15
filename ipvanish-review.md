@@ -128,7 +128,7 @@ A: At $2.49/month it matches Surfshark's pricing but delivers less in terms of s
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "IPVanish VPN Review 2026",
-  "dateModified": "2026-03-12",
+  "dateModified": "2026-03-15",
   "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.0", "bestRating": "5"},
   "itemReviewed": {

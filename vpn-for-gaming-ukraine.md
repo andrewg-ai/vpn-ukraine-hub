@@ -194,7 +194,7 @@ For Ukrainian gamers in 2026:
   "@type": "ItemList",
   "name": "Best VPN for Gaming in Ukraine 2026",
   "description": "Top VPNs for Ukrainian gamers — low ping, DDoS protection, and geo-restriction bypass",
-  "dateModified": "2026-03-12",
+  "dateModified": "2026-03-15",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [
