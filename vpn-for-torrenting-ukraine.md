@@ -87,7 +87,7 @@ PIA is the most feature-rich torrenting VPN. Open-source client, court-proven no
 
 **Port forwarding explained:** Most home routers use CGNAT (carrier-grade NAT) which prevents incoming connections. Port forwarding through VPN bypasses this, allowing peers to connect to you — improving download speeds significantly.
 
-**[→ Get PIA VPN for Torrenting](https://YOUR-PIA-AFFILIATE-LINK)**
+**[→ Get PIA VPN for Torrenting](https://privateinternetaccess.com)**
 
 ---
 
@@ -102,7 +102,7 @@ Surfshark allows P2P on all servers (no dedicated P2P servers required) and deli
 - Unlimited devices — protect every device torrenting simultaneously
 - CleanWeb blocks malicious ads on torrent index sites
 
-**[→ Get Surfshark for Torrenting](https://YOUR-SURFSHARK-AFFILIATE-LINK)**
+**[→ Get Surfshark for Torrenting](https://surfshark.com)**
 
 ---
 
@@ -173,7 +173,7 @@ For Ukrainian torrent users:
   "@type": "ItemList",
   "name": "Best VPN for Torrenting in Ukraine 2026",
   "description": "Top VPNs for safe P2P downloads from Ukraine — kill switch, P2P servers, and no-logs policy",
-  "dateModified": "2026-03-15",
+  "dateModified": "2026-03-16",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

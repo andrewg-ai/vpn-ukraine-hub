@@ -67,7 +67,7 @@ ExpressVPN is the gold standard for streaming VPNs. Dedicated content teams moni
 2. Connect to UK server for BBC iPlayer
 3. Use MediaStreamer on smart TV (no app needed)
 
-**[→ Try ExpressVPN for Streaming](https://YOUR-EXPRESSVPN-AFFILIATE-LINK)**
+**[→ Try ExpressVPN for Streaming](https://expressvpn.com)**
 
 ---
 
@@ -101,7 +101,7 @@ Surfshark works with all major streaming platforms at the lowest price among rel
 
 **Note:** Surfshark occasionally requires switching to a different server within the same country if one gets blocked. Takes 30 seconds to fix but worth knowing.
 
-**[→ Try Surfshark for Streaming](https://YOUR-SURFSHARK-AFFILIATE-LINK)**
+**[→ Try Surfshark for Streaming](https://surfshark.com)**
 
 ---
 
@@ -119,7 +119,7 @@ CyberGhost has a unique feature: **dedicated streaming servers labeled by platfo
 
 **Why beginners love it:** No trial and error — the server labeled "BBC iPlayer" works for BBC iPlayer. Simple.
 
-**[→ Try CyberGhost for Streaming](https://YOUR-CYBERGHOST-AFFILIATE-LINK)**
+**[→ Try CyberGhost for Streaming](https://cyberghostvpn.com)**
 
 ---
 
@@ -212,13 +212,13 @@ For streaming from Ukraine in 2026:
   "@type": "ItemList",
   "name": "Best VPN for Streaming in Ukraine 2026",
   "description": "Top VPNs for unblocking Netflix, BBC iPlayer, and Disney+ from Ukraine",
-  "dateModified": "2026-03-15",
+  "dateModified": "2026-03-16",
   "itemListElement": [
     {
       "@type": "ListItem", "position": 1,
       "item": {"@type": "SoftwareApplication", "name": "ExpressVPN",
         "offers": {"@type": "Offer", "price": "6.67", "priceCurrency": "USD"},
-        "url": "https://YOUR-EXPRESSVPN-AFFILIATE-LINK"}
+        "url": "https://expressvpn.com"}
     },
     {
       "@type": "ListItem", "position": 2,
@@ -230,7 +230,7 @@ For streaming from Ukraine in 2026:
       "@type": "ListItem", "position": 3,
       "item": {"@type": "SoftwareApplication", "name": "Surfshark",
         "offers": {"@type": "Offer", "price": "2.49", "priceCurrency": "USD"},
-        "url": "https://YOUR-SURFSHARK-AFFILIATE-LINK"}
+        "url": "https://surfshark.com"}
     }
   ],
   "mainEntity": {

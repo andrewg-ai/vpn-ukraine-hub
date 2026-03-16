@@ -76,7 +76,7 @@ For Ukrainian gamers dealing with power outages and network interruptions, Expre
 - **Split tunneling** — Windows and Mac apps support routing only game traffic
 - **Optimized servers** — ExpressVPN's infrastructure prioritizes low-latency connections
 
-**[→ Try ExpressVPN for Gaming](https://YOUR-EXPRESSVPN-AFFILIATE-LINK)**
+**[→ Try ExpressVPN for Gaming](https://expressvpn.com)**
 
 ---
 
@@ -90,7 +90,7 @@ Surfshark's unlimited device connections makes it practical for gamers with mult
 - **NoBorders mode** — automatically bypasses ISP gaming traffic restrictions
 - **CleanWeb** — blocks malicious ads that sometimes accompany game download sites
 
-**[→ Try Surfshark for Gaming](https://YOUR-SURFSHARK-AFFILIATE-LINK)**
+**[→ Try Surfshark for Gaming](https://surfshark.com)**
 
 ---
 
@@ -103,7 +103,7 @@ CyberGhost's dedicated gaming servers (labeled "Gaming" in the app) are optimize
 - Smart Rules — auto-connect VPN when opening specific games
 - 45-day money-back guarantee — test for a full gaming season
 
-**[→ Try CyberGhost for Gaming](https://YOUR-CYBERGHOST-AFFILIATE-LINK)**
+**[→ Try CyberGhost for Gaming](https://cyberghostvpn.com)**
 
 ---
 
@@ -194,7 +194,7 @@ For Ukrainian gamers in 2026:
   "@type": "ItemList",
   "name": "Best VPN for Gaming in Ukraine 2026",
   "description": "Top VPNs for Ukrainian gamers — low ping, DDoS protection, and geo-restriction bypass",
-  "dateModified": "2026-03-15",
+  "dateModified": "2026-03-16",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

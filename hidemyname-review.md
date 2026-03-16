@@ -233,7 +233,7 @@ The main limitations — no independent audit, smaller server network, inconsist
   "@context": "https://schema.org",
   "@type": "Review",
   "name": "HideMyName VPN Review 2026",
-  "dateModified": "2026-03-15",
+  "dateModified": "2026-03-16",
   "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.2", "bestRating": "5"},
   "itemReviewed": {
