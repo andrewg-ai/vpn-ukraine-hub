@@ -102,7 +102,7 @@ Surfshark allows P2P on all servers (no dedicated P2P servers required) and deli
 - Unlimited devices — protect every device torrenting simultaneously
 - CleanWeb blocks malicious ads on torrent index sites
 
-**[→ Get Surfshark for Torrenting](https://surfshark.com)**
+**[→ Get Surfshark for Torrenting](https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283)**
 
 ---
 
@@ -173,7 +173,7 @@ For Ukrainian torrent users:
   "@type": "ItemList",
   "name": "Best VPN for Torrenting in Ukraine 2026",
   "description": "Top VPNs for safe P2P downloads from Ukraine — kill switch, P2P servers, and no-logs policy",
-  "dateModified": "2026-03-16",
+  "dateModified": "2026-03-20",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

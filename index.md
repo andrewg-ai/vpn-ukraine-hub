@@ -71,7 +71,7 @@ Ukraine has unique VPN needs: protection from surveillance, bypassing geo-restri
 
 **Pricing:** From $2.49/month (2-year plan) | 30-day money-back guarantee
 
-**[→ Try Surfshark — 82% Off Today](https://surfshark.com)**
+**[→ Try Surfshark — 82% Off Today](https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283)**
 
 ---
 
@@ -212,7 +212,7 @@ If speed is critical for remote work: **ExpressVPN**.
   "@type": "ItemList",
   "name": "Best VPN for Ukraine 2026",
   "description": "Top 7 VPN services reviewed for Ukrainian users — speed, privacy, price",
-  "dateModified": "2026-03-16",
+  "dateModified": "2026-03-20",
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -235,7 +235,7 @@ If speed is critical for remote work: **ExpressVPN**.
         "applicationCategory": "SecurityApplication",
         "offers": {"@type": "Offer", "price": "2.49", "priceCurrency": "USD"},
         "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "95000"},
-        "url": "https://surfshark.com"
+        "url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283"
       }
     },
     {

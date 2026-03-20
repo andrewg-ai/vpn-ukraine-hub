@@ -100,7 +100,7 @@ Remote work from Ukraine in 2026 has specific requirements that differ from casu
 
 **Pricing:** From $2.49/month (2-year plan)
 
-**[→ Try Surfshark for Remote Work](https://surfshark.com)**
+**[→ Try Surfshark for Remote Work](https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283)**
 
 ---
 
@@ -206,7 +206,7 @@ If you handle sensitive client data: **ProtonVPN** (Swiss jurisdiction, Secure C
   "@type": "ItemList",
   "name": "Best VPN for Remote Work in Ukraine 2026",
   "description": "Top 5 VPN services for Ukrainian remote workers — speed, corporate features, and reliability",
-  "dateModified": "2026-03-16",
+  "dateModified": "2026-03-20",
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -241,7 +241,7 @@ If you handle sensitive client data: **ProtonVPN** (Swiss jurisdiction, Secure C
         "applicationCategory": "SecurityApplication",
         "offers": {"@type": "Offer", "price": "2.49", "priceCurrency": "USD"},
         "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "95000"},
-        "url": "https://surfshark.com"
+        "url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283"
       }
     }
   ],

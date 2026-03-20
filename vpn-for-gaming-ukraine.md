@@ -90,7 +90,7 @@ Surfshark's unlimited device connections makes it practical for gamers with mult
 - **NoBorders mode** — automatically bypasses ISP gaming traffic restrictions
 - **CleanWeb** — blocks malicious ads that sometimes accompany game download sites
 
-**[→ Try Surfshark for Gaming](https://surfshark.com)**
+**[→ Try Surfshark for Gaming](https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283)**
 
 ---
 
@@ -194,7 +194,7 @@ For Ukrainian gamers in 2026:
   "@type": "ItemList",
   "name": "Best VPN for Gaming in Ukraine 2026",
   "description": "Top VPNs for Ukrainian gamers — low ping, DDoS protection, and geo-restriction bypass",
-  "dateModified": "2026-03-16",
+  "dateModified": "2026-03-20",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

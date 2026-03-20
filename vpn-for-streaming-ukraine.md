@@ -101,7 +101,7 @@ Surfshark works with all major streaming platforms at the lowest price among rel
 
 **Note:** Surfshark occasionally requires switching to a different server within the same country if one gets blocked. Takes 30 seconds to fix but worth knowing.
 
-**[→ Try Surfshark for Streaming](https://surfshark.com)**
+**[→ Try Surfshark for Streaming](https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283)**
 
 ---
 
@@ -212,7 +212,7 @@ For streaming from Ukraine in 2026:
   "@type": "ItemList",
   "name": "Best VPN for Streaming in Ukraine 2026",
   "description": "Top VPNs for unblocking Netflix, BBC iPlayer, and Disney+ from Ukraine",
-  "dateModified": "2026-03-16",
+  "dateModified": "2026-03-20",
   "itemListElement": [
     {
       "@type": "ListItem", "position": 1,
@@ -230,7 +230,7 @@ For streaming from Ukraine in 2026:
       "@type": "ListItem", "position": 3,
       "item": {"@type": "SoftwareApplication", "name": "Surfshark",
         "offers": {"@type": "Offer", "price": "2.49", "priceCurrency": "USD"},
-        "url": "https://surfshark.com"}
+        "url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283"}
     }
   ],
   "mainEntity": {
