@@ -77,6 +77,30 @@ ProtonVPN is one of the only VPNs with a free plan worth using. Most "free VPNs"
 
 ---
 
+## ProtonVPN Free Servers Available for Ukraine (2026)
+
+The free plan gives access to 5 server locations. Here's what works best for Ukrainian users:
+
+| Country | Servers | Latency from Ukraine | Best For |
+|---------|---------|---------------------|----------|
+| 🇵🇱 Poland | PL-FREE#1-5 | ~30ms | **Best choice** — closest to Ukraine |
+| 🇳🇱 Netherlands | NL-FREE#1-5 | ~50ms | Privacy, general browsing |
+| 🇷🇴 Romania | RO-FREE#1-3 | ~35ms | Speed, low latency alternative |
+| 🇺🇸 USA | US-FREE#1-5 | ~120ms | US-only content |
+| 🇯🇵 Japan | JP-FREE#1-3 | ~250ms | Japan-only content |
+
+**Which server to choose from Ukraine:**
+- **Everyday use** → Poland (PL-FREE) — lowest latency, fastest speeds
+- **Maximum privacy** → Netherlands (NL-FREE) — strict Dutch jurisdiction
+- **Netflix US, Hulu** → USA (US-FREE) — note: streaming only works on paid Plus plan
+- **Anime, Japanese content** → Japan (JP-FREE)
+
+> **Tip:** Free servers get congested during peak hours (evenings). If Poland is slow, try Romania (RO-FREE) — similar latency but usually less crowded.
+
+**[→ Connect to ProtonVPN Free](https://go.getproton.me/aff_c?offer_id=26&aff_id=16729)**
+
+---
+
 ## Speed Performance
 
 ProtonVPN uses WireGuard as its primary protocol. Speeds are solid but slightly behind NordVPN and ExpressVPN — ProtonVPN prioritizes security over raw speed optimization.
@@ -178,7 +202,10 @@ All ProtonVPN apps (iOS, Android, Windows, Mac, Linux) are open-source and avail
 A: ProtonVPN is one of the most recommended VPNs for journalists globally, used by the Committee to Protect Journalists and EFF. Swiss jurisdiction, Secure Core, and open-source audited clients make it the strongest privacy option available.
 
 **Q: Does ProtonVPN's free plan work in Ukraine?**
-A: Yes. ProtonVPN Free connects from Ukraine with no issues. Poland server provides low latency. Unlimited bandwidth makes it viable for regular use, though speeds are slower than paid tier during peak hours.
+A: Yes. ProtonVPN Free connects from Ukraine with no issues. Poland server (PL-FREE) provides the lowest latency (~30ms) from Ukraine. Romania (RO-FREE) is a good alternative when Poland servers are congested. Unlimited bandwidth makes it viable for regular use, though speeds are slower than paid tier during peak hours.
+
+**Q: What free servers does ProtonVPN offer for Ukraine?**
+A: Free plan users from Ukraine can connect to Poland (~30ms), Romania (~35ms), Netherlands (~50ms), USA (~120ms), and Japan (~250ms). Poland is the best choice for daily use due to proximity.
 
 **Q: Is ProtonVPN connected to ProtonMail?**
 A: Yes — both are products of Proton AG, the Swiss privacy company. Using ProtonMail and ProtonVPN together provides comprehensive privacy for both email and internet browsing from Ukraine.
@@ -220,7 +247,7 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
   "name": "ProtonVPN Review for Ukraine 2026",
   "description": "ProtonVPN review for Ukraine: Swiss privacy, free plan, and Proton ecosystem.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-03-20",
+  "dateModified": "2026-03-21",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

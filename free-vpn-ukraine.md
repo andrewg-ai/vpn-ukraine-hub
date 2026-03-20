@@ -206,7 +206,7 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
   "@type": "ItemList",
   "name": "Best Free VPNs for Ukraine 2026",
   "description": "Tested free VPN options that work in Ukraine without speed caps or data limits.",
-  "dateModified": "2026-03-20",
+  "dateModified": "2026-03-21",
   "itemListElement": [
     {
       "@type": "ListItem",

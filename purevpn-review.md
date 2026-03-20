@@ -119,7 +119,7 @@ A: Yes — PureVPN works from Ukraine with good performance to EU servers. Ukrai
   "name": "PureVPN Review for Ukraine 2026",
   "description": "PureVPN review for Ukrainian users: pricing, speed, and payment options.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-03-20",
+  "dateModified": "2026-03-21",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"
