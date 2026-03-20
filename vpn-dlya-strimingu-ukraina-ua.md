@@ -7,7 +7,7 @@ lang: uk
 
 # VPN для Стрімінгу в Україні 2026: Netflix, Disney+, BBC iPlayer
 
-> Останнє оновлення: March 2026 | Автор: VPN Ukraine Hub
+> Останнє оновлення: March 2026 | Автор: Andrii Hnitko
 
 ---
 > ### 📺 Найкращий VPN для стрімінгу в Україні 2026

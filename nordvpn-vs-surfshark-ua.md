@@ -7,7 +7,7 @@ lang: uk
 
 # NordVPN vs Surfshark 2026: Який VPN Обрати для України?
 
-> Останнє оновлення: March 2026 | Автор: VPN Ukraine Hub
+> Останнє оновлення: March 2026 | Автор: Andrii Hnitko
 
 ---
 > ### ⚔️ NordVPN vs Surfshark 2026: Який VPN Обрати для України?
@@ -149,7 +149,7 @@ Meshnet — унікальна функція NordVPN без аналогів у
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
+  "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

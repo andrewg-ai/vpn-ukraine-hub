@@ -7,7 +7,7 @@ lang: uk
 
 # HideMyName Огляд 2026: Український VPN з Серверами в Україні
 
-> Останнє оновлення: March 2026 | Автор: VPN Ukraine Hub
+> Останнє оновлення: March 2026 | Автор: Andrii Hnitko
 
 ---
 > ### 🇺🇦 Найкращий локальний VPN з підтримкою українською 2026
@@ -203,7 +203,7 @@ HideMyName орієнтований на українську аудиторію
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
+  "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.5", "bestRating": "5"},
   "itemReviewed": {
     "@type": "SoftwareApplication",

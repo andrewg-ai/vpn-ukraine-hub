@@ -7,7 +7,7 @@ lang: uk
 
 # PureVPN Огляд 2026: Ціни, Швидкість і Чи Варто Купувати в Україні?
 
-> Останнє оновлення: March 2026 | Автор: VPN Ukraine Hub
+> Останнє оновлення: March 2026 | Автор: Andrii Hnitko
 
 ---
 > ### 🔒 Найдешевший якісний VPN для України 2026 — PureVPN
@@ -215,7 +215,7 @@ NordVPN швидший і має більше функцій (Meshnet, Threat Pr
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Organization", "name": "VPN Ukraine Hub"},
+  "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.5", "bestRating": "5"},
   "itemReviewed": {
     "@type": "SoftwareApplication",
