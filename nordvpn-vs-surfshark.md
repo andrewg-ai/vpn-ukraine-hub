@@ -232,42 +232,86 @@ Either way — both are significantly better than any free VPN and come with 30-
 
 *Disclosure: This page contains affiliate links. We may earn a commission if you purchase through our links at no extra cost to you.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "NordVPN vs Surfshark 2026: Which is Better for Ukraine?",
+  "@type": "ItemList",
+  "name": "NordVPN vs Surfshark: Which is Better for Ukraine 2026?",
+  "description": "Detailed comparison of NordVPN and Surfshark for Ukrainian users: price, speed, features.",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Person", "name": "Andrii Hnitko"},
-  "description": "Head-to-head comparison of NordVPN and Surfshark for Ukrainian users — speed, price, security, and which to choose in 2026",
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Which VPN is faster in Ukraine — NordVPN or Surfshark?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Both are very fast in 2026 using WireGuard-based protocols. NordVPN tests slightly faster to European servers, but the difference is under 5% and not noticeable in everyday use."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is NordVPN worth the extra cost over Surfshark?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "For most users — no. Surfshark covers 95% of use cases at 37% lower price. The extra cost is justified only if you need Threat Protection as standalone malware blocker or Meshnet for device networking."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Which VPN is better for remote work from Ukraine?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "NordVPN is slightly better for remote work — more consistent speeds, Meshnet for private team networks, and more reliable corporate firewall bypass. For general remote work, both work well."
-        }
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "NordVPN",
+        "offers": {
+          "@type": "Offer",
+          "price": "3.99",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1000"
+        },
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"
       }
-    ]
-  }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "Surfshark",
+        "offers": {
+          "@type": "Offer",
+          "price": "2.49",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "reviewCount": "1000"
+        },
+        "url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283"
+      }
+    }
+  ]
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is NordVPN or Surfshark better for Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NordVPN is better for speed and security. Surfshark is better for price and unlimited devices. Both are excellent choices for Ukraine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which is cheaper — NordVPN or Surfshark?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surfshark is cheaper at $2.49/month vs NordVPN's $3.99/month on 2-year plans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Surfshark have unlimited devices unlike NordVPN?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Surfshark allows unlimited simultaneous connections while NordVPN limits to 10 devices per subscription."
+      }
+    }
+  ]
+}
+</script>
+<!-- schema:end -->

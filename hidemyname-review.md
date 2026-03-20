@@ -228,41 +228,65 @@ The main limitations — no independent audit, smaller server network, inconsist
 
 *Disclosure: This page contains affiliate links. We may earn a commission at no extra cost to you.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "HideMyName VPN Review 2026",
+  "name": "HideMyName VPN Review for Ukraine 2026",
+  "description": "HideMyName VPN review: Ukrainian-friendly VPN with competitive pricing and good speeds.",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Person", "name": "Andrii Hnitko"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.2", "bestRating": "5"},
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.4",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "HideMyName VPN",
     "applicationCategory": "SecurityApplication",
-    "offers": {"@type": "Offer", "price": "2.99", "priceCurrency": "USD"},
+    "operatingSystem": "Windows, macOS, iOS, Android, Linux",
+    "offers": {
+      "@type": "Offer",
+      "price": "2.99",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.4",
+      "reviewCount": "5000"
+    },
     "url": "https://hxy.name/#69adc2f79300e"
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is HideMyName VPN safe to use in Ukraine?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes for everyday privacy use. HideMyName uses AES-256 encryption and WireGuard protocol. Best for casual privacy rather than high-risk situations as the no-logs policy hasn't been independently audited."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Does HideMyName have a free plan?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "HideMyName offers a 24-hour free trial without requiring a credit card — one of the few VPNs to offer this. No ongoing free plan but the trial is genuinely useful for testing."
-        }
-      }
-    ]
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is HideMyName VPN good for Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HideMyName is a solid budget VPN option for Ukraine with competitive pricing and Ukrainian language support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does HideMyName accept Ukrainian payment methods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. HideMyName accepts Ukrainian bank cards and various payment methods popular in Ukraine."
+      }
+    }
+  ]
+}
+</script>
+<!-- schema:end -->

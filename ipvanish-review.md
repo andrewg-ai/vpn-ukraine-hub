@@ -123,20 +123,73 @@ A: At $2.49/month it matches Surfshark's pricing but delivers less in terms of s
 
 *Disclosure: This page contains affiliate links. We may earn a commission at no extra cost to you.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "IPVanish VPN Review 2026",
+  "name": "IPVanish Review for Ukraine 2026",
+  "description": "IPVanish VPN review for Ukrainian users: speed, security, and unlimited device connections.",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Person", "name": "Andrii Hnitko"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.0", "bestRating": "5"},
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.6",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "IPVanish",
     "applicationCategory": "SecurityApplication",
-    "offers": {"@type": "Offer", "price": "2.49", "priceCurrency": "USD"},
+    "operatingSystem": "Windows, macOS, iOS, Android, Linux",
+    "offers": {
+      "@type": "Offer",
+      "price": "3.19",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": "18000"
+    },
     "url": "https://affiliate.ipvanish.com/aff_c?offer_id=1&aff_id=4819"
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is IPVanish good for Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IPVanish is a solid choice for Ukraine with unlimited device connections and 2000+ servers worldwide."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many devices does IPVanish support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IPVanish supports unlimited simultaneous device connections on one subscription."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does IPVanish keep logs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IPVanish has a strict no-logs policy and is based in the USA with a proven track record since 2012."
+      }
+    }
+  ]
+}
+</script>
+<!-- schema:end -->

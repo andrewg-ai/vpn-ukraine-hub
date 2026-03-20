@@ -268,4 +268,36 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
   ]
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which free VPN is best for Ukraine in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ProtonVPN Free is the best free VPN for Ukraine — it offers unlimited bandwidth with no data caps, unlike most free VPNs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are free VPNs safe to use in Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most free VPNs log and sell your data. Only ProtonVPN Free is trustworthy — it is open source and independently audited."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use a free VPN for streaming in Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ProtonVPN Free works for basic streaming but has slower speeds. For HD streaming, a paid plan like Surfshark at $2.49/month is recommended."
+      }
+    }
+  ]
+}
+</script>
 <!-- schema:end -->

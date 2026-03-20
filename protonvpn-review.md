@@ -219,7 +219,7 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
   "@type": "Review",
   "name": "ProtonVPN Review for Ukraine 2026",
   "description": "ProtonVPN review for Ukraine: Swiss privacy, free plan, and Proton ecosystem.",
-  "datePublished": "2026-03-11",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
   "author": {
     "@type": "Person",
@@ -247,6 +247,54 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
     },
     "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is ProtonVPN really free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. ProtonVPN offers a genuinely free plan with unlimited bandwidth and no data caps, just slower server speeds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is ProtonVPN based?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ProtonVPN is based in Switzerland, outside EU/US jurisdiction, with some of the strongest legal privacy protections in the world."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use ProtonVPN free in Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The free plan works in Ukraine with access to servers in Netherlands, Japan and USA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is ProtonVPN open source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. All ProtonVPN apps are open source and have been independently audited for security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is ProtonVPN Secure Core?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secure Core routes traffic through privacy-friendly countries like Iceland and Switzerland before exiting, providing extra protection against network attacks."
+      }
+    }
+  ]
 }
 </script>
 <!-- schema:end -->

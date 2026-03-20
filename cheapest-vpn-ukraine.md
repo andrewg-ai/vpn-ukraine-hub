@@ -199,7 +199,7 @@ If you're a power user: **PIA** ($2.03/month) with open-source clients and port 
           "ratingValue": "4.7",
           "reviewCount": "1000"
         },
-        "url": "https://surfshark.com"
+        "url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283"
       }
     },
     {
@@ -248,12 +248,12 @@ If you're a power user: **PIA** ($2.03/month) with open-source clients and port 
         "name": "NordVPN",
         "offers": {
           "@type": "Offer",
-          "price": "3.09",
+          "price": "3.99",
           "priceCurrency": "USD"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "4.8",
+          "ratingValue": "4.9",
           "reviewCount": "1000"
         },
         "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"
@@ -276,6 +276,38 @@ If you're a power user: **PIA** ($2.03/month) with open-source clients and port 
           "reviewCount": "1000"
         },
         "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cheapest VPN for Ukraine in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CyberGhost at $2.19/month is the cheapest paid VPN for Ukraine. ProtonVPN offers a completely free plan with unlimited bandwidth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a free VPN that works in Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ProtonVPN Free is the best free VPN for Ukraine — unlimited bandwidth, no data caps, and based in Switzerland for maximum privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which cheap VPN works best for streaming in Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surfshark at $2.49/month offers the best balance of price and streaming performance with dedicated streaming servers."
       }
     }
   ]

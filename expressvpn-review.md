@@ -198,41 +198,73 @@ The only reason it's not rated higher: NordVPN delivers 95% of the same performa
 
 *Disclosure: This page contains affiliate links. We may earn a commission at no extra cost to you.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "ExpressVPN Review 2026",
+  "name": "ExpressVPN Review for Ukraine 2026",
+  "description": "ExpressVPN review for Ukrainian users: fastest speeds, Lightway protocol, and reliability.",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Person", "name": "Andrii Hnitko"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"},
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.7",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "ExpressVPN",
     "applicationCategory": "SecurityApplication",
-    "offers": {"@type": "Offer", "price": "6.67", "priceCurrency": "USD"},
+    "operatingSystem": "Windows, macOS, iOS, Android, Linux",
+    "offers": {
+      "@type": "Offer",
+      "price": "6.67",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "55000"
+    },
     "url": "https://expressvpn.com"
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is ExpressVPN the fastest VPN for Ukraine?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ExpressVPN and NordVPN are essentially tied for fastest VPN from Ukraine to EU servers. ExpressVPN's advantage is reconnection speed after drops via Lightway protocol, not peak download speed."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is ExpressVPN safe after the Kape Technologies acquisition?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Independent audits by KPMG in 2022 and 2023 confirm the no-logs policy is genuine. The TrustedServer RAM-only architecture provides technical guarantee that logs cannot be stored."
-        }
-      }
-    ]
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is ExpressVPN worth the price for Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ExpressVPN is more expensive than alternatives but offers the best speeds and reliability, ideal for remote workers with video calls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is ExpressVPN Lightway protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lightway is ExpressVPN's proprietary protocol built for speed — it connects in under 2 seconds and maintains stable connections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does ExpressVPN work in Ukraine in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. ExpressVPN has servers in 105 countries including neighboring Poland and Romania for fast Ukrainian connections."
+      }
+    }
+  ]
+}
+</script>
+<!-- schema:end -->

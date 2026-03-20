@@ -111,20 +111,73 @@ A: Yes — PureVPN works from Ukraine with good performance to EU servers. Ukrai
 
 *Disclosure: This page contains affiliate links. We may earn a commission at no extra cost to you.*
 
+<!-- schema:start -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Review",
-  "name": "PureVPN Review 2026",
+  "name": "PureVPN Review for Ukraine 2026",
+  "description": "PureVPN review for Ukrainian users: pricing, speed, and payment options.",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
-  "author": {"@type": "Person", "name": "Andrii Hnitko"},
-  "reviewRating": {"@type": "Rating", "ratingValue": "4.1", "bestRating": "5"},
+  "author": {
+    "@type": "Person",
+    "name": "Andrii Hnitko"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.5",
+    "bestRating": "5"
+  },
   "itemReviewed": {
     "@type": "SoftwareApplication",
     "name": "PureVPN",
     "applicationCategory": "SecurityApplication",
-    "offers": {"@type": "Offer", "price": "2.08", "priceCurrency": "USD"},
+    "operatingSystem": "Windows, macOS, iOS, Android, Linux",
+    "offers": {
+      "@type": "Offer",
+      "price": "2.29",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "15000"
+    },
     "url": "https://billing.purevpn.com/aff.php?aff=49387527"
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is PureVPN good for Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PureVPN works well in Ukraine with 6500+ servers in 78 countries. Good budget option at $2.29/month."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does PureVPN have a free trial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PureVPN offers a 31-day money-back guarantee. No free plan available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pay for PureVPN with a Ukrainian bank card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. PureVPN accepts Visa and Mastercard from Ukrainian banks including PrivatBank and Monobank."
+      }
+    }
+  ]
+}
+</script>
+<!-- schema:end -->

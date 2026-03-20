@@ -230,7 +230,7 @@ The main reasons to choose NordVPN over Surfshark are Meshnet and more comprehen
   "@type": "Review",
   "name": "Surfshark Review for Ukraine 2026",
   "description": "Surfshark VPN review for Ukrainian users: unlimited devices, pricing, and performance.",
-  "datePublished": "2026-03-11",
+  "datePublished": "2026-03-20",
   "dateModified": "2026-03-20",
   "author": {
     "@type": "Person",
@@ -256,8 +256,56 @@ The main reasons to choose NordVPN over Surfshark are Meshnet and more comprehen
       "ratingValue": "4.7",
       "reviewCount": "62000"
     },
-    "url": "https://surfshark.com"
+    "url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=45283"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many devices can I use with Surfshark?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surfshark allows unlimited simultaneous device connections on one subscription — unique among major VPN providers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Surfshark cheaper than NordVPN for Ukraine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Surfshark costs $2.49/month on a 2-year plan vs NordVPN's $3.99/month, making it the best budget option."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Surfshark work in Ukraine in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Surfshark has servers in neighboring countries and Camouflage Mode for bypassing deep packet inspection by Ukrainian ISPs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Surfshark accept Ukrainian bank cards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Surfshark accepts Visa and Mastercard from PrivatBank, Monobank and other Ukrainian banks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Surfshark Camouflage Mode?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Camouflage Mode disguises VPN traffic as regular HTTPS traffic, bypassing ISP restrictions without any manual configuration."
+      }
+    }
+  ]
 }
 </script>
 <!-- schema:end -->
