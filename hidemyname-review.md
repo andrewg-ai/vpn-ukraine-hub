@@ -1,6 +1,6 @@
-# HideMyName VPN Review 2026: The Budget VPN Popular in Ukraine
+﻿# HideMyName VPN Review 2026: The Budget VPN Popular in Ukraine
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🇺🇦 Ukrainian-Focused VPN with Local Servers — HideMyName 2026

@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: "PureVPN vs NordVPN 2026: Що Краще для України?"
 description: "Детальне порівняння PureVPN і NordVPN для України 2026: ціна, швидкість, безпека, функції. PureVPN $2.29 vs NordVPN $3.99 — що обрати?"

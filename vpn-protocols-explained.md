@@ -1,6 +1,6 @@
-# VPN Protocols Explained 2026: WireGuard vs OpenVPN vs IKEv2
+﻿# VPN Protocols Explained 2026: WireGuard vs OpenVPN vs IKEv2
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🔧 VPN Protocols Explained 2026

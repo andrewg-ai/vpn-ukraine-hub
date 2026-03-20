@@ -1,6 +1,6 @@
-# Best Free VPN for Ukraine 2026: 5 Actually Works (No Credit Card)
+﻿# Best Free VPN for Ukraine 2026: 5 Actually Works (No Credit Card)
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🆓 Best Free VPN for Ukraine 2026 — 5 That Actually Work

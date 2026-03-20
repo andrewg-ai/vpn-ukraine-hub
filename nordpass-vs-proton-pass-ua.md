@@ -1,4 +1,4 @@
-# NordPass vs Proton Pass 2026: Який Менеджер Паролів Обрати?
+﻿# NordPass vs Proton Pass 2026: Який Менеджер Паролів Обрати?
 
 > Останнє оновлення: 14 March 2026
 

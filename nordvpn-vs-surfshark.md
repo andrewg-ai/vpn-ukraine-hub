@@ -1,6 +1,6 @@
-# NordVPN vs Surfshark 2026: Which is Better for Ukraine?
+﻿# NordVPN vs Surfshark 2026: Which is Better for Ukraine?
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### ⚔️ NordVPN vs Surfshark 2026 — Which is Better for Ukraine?

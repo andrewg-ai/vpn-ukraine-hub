@@ -1,6 +1,6 @@
-# Surfshark Review 2026: Best Value VPN for Ukraine?
+﻿# Surfshark Review 2026: Best Value VPN for Ukraine?
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🦈 Unlimited Devices VPN 2026

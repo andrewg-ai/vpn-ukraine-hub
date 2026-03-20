@@ -1,6 +1,6 @@
-# Best VPN for Streaming in Ukraine 2026: Unblock Netflix, BBC, Disney+
+﻿# Best VPN for Streaming in Ukraine 2026: Unblock Netflix, BBC, Disney+
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 📺 Best VPN for Streaming in Ukraine 2026

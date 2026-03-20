@@ -1,6 +1,6 @@
-# Cheapest VPN for Ukraine 2026: Best Value Picks Under $3/Month
+﻿# Cheapest VPN for Ukraine 2026: Best Value Picks Under $3/Month
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 💰 Cheapest VPN for Ukraine 2026 — Best Value Under $3

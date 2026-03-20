@@ -1,6 +1,6 @@
-# PureVPN Review 2026: Is It Worth It for Ukrainian Users?
+﻿# PureVPN Review 2026: Is It Worth It for Ukrainian Users?
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🔒 PureVPN Review 2026 — Is It Worth It for Ukrainian Users?

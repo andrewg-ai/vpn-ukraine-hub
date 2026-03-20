@@ -1,6 +1,6 @@
-# IPVanish VPN Review 2026: 50% Commission, But Is It Good for Ukraine?
+﻿# IPVanish VPN Review 2026: 50% Commission, But Is It Good for Ukraine?
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🔑 IPVanish VPN Review 2026 — Unlimited Devices, High Commission

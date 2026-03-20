@@ -1,6 +1,6 @@
-# Best VPN for Torrenting in Ukraine 2026: Safe P2P Downloads
+﻿# Best VPN for Torrenting in Ukraine 2026: Safe P2P Downloads
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### ⬇️ Best VPN for Torrenting in Ukraine 2026

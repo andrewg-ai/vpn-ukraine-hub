@@ -1,6 +1,6 @@
-# ExpressVPN Review 2026: Is It Worth the Price for Ukrainian Users?
+﻿# ExpressVPN Review 2026: Is It Worth the Price for Ukrainian Users?
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### ⚡ ExpressVPN — Is It Worth the Price?

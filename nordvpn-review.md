@@ -1,6 +1,6 @@
-# NordVPN Review 2026: The Best VPN for Ukraine?
+﻿# NordVPN Review 2026: The Best VPN for Ukraine?
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🛡️ Best VPN for Ukraine 2026 — NordVPN Honest Review

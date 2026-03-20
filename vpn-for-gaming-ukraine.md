@@ -1,6 +1,6 @@
-# Best VPN for Gaming in Ukraine 2026: Reduce Ping, Beat Geo-Restrictions
+﻿# Best VPN for Gaming in Ukraine 2026: Reduce Ping, Beat Geo-Restrictions
 
-> Last updated: March 2026 | Author: VPN Ukraine Hub
+> Last updated: March 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🎮 Best VPN for Gaming in Ukraine — Low Ping
