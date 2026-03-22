@@ -208,7 +208,7 @@ The easiest approach: set protocol to **Auto** in your VPN app and let it choose
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "VPN Protocols Explained 2026: WireGuard vs OpenVPN vs IKEv2",
-  "dateModified": "2026-03-21",
+  "dateModified": "2026-03-22",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "description": "Complete guide to VPN protocols for Ukrainian users — WireGuard, OpenVPN, IKEv2, Lightway explained in plain language",
   "mainEntity": {
