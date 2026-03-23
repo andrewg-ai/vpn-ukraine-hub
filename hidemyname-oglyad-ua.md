@@ -202,7 +202,7 @@ HideMyName орієнтований на українську аудиторію
   "description": "Огляд HideMyName для України 2026: сервери в Україні, підтримка українською, ціни від $2.99.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-22",
+  "dateModified": "2026-03-23",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.5", "bestRating": "5"},
   "itemReviewed": {

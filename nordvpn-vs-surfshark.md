@@ -239,7 +239,7 @@ Either way — both are significantly better than any free VPN and come with 30-
   "@type": "ItemList",
   "name": "NordVPN vs Surfshark: Which is Better for Ukraine 2026?",
   "description": "Detailed comparison of NordVPN and Surfshark for Ukrainian users: price, speed, features.",
-  "dateModified": "2026-03-22",
+  "dateModified": "2026-03-23",
   "itemListElement": [
     {
       "@type": "ListItem",

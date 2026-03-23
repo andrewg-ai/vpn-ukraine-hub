@@ -214,7 +214,7 @@ The only reason to choose a competitor: Surfshark if you need unlimited device c
   "name": "NordVPN Review 2026: The Best VPN for Ukraine?",
   "description": "In-depth NordVPN review for Ukrainian users: pricing, speed, security, and how to get it.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-03-22",
+  "dateModified": "2026-03-23",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"
