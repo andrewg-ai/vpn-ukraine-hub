@@ -213,7 +213,7 @@ For streaming from Ukraine in 2026:
   "@type": "ItemList",
   "name": "Best VPNs for Streaming in Ukraine 2026",
   "description": "Top VPNs for Netflix, BBC iPlayer and other streaming services from Ukraine.",
-  "dateModified": "2026-03-23",
+  "dateModified": "2026-03-29",
   "itemListElement": [
     {
       "@type": "ListItem",

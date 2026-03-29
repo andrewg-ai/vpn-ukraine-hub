@@ -148,7 +148,7 @@ Meshnet — унікальна функція NordVPN без аналогів у
   "description": "Детальне порівняння NordVPN і Surfshark для України 2026: ціна, швидкість, безпека.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-23",
+  "dateModified": "2026-03-29",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "mainEntity": {
     "@type": "FAQPage",
