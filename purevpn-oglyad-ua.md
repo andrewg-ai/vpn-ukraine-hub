@@ -214,7 +214,7 @@ NordVPN швидший і має більше функцій (Meshnet, Threat Pr
   "description": "Чесний огляд PureVPN для України 2026: ціни від $2.29, 31 день гарантія, оплата карткою UA.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-03-29",
+  "dateModified": "2026-04-03",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.5", "bestRating": "5"},
   "itemReviewed": {

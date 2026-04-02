@@ -1,6 +1,6 @@
 ﻿# ProtonVPN Review 2026: The Most Private VPN for Ukraine?
 
-> Last updated: March 2026 | Author: Andrii Hnitko
+> Last updated: April 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🔐 Most Private VPN for Ukraine — ProtonVPN Review 2026
@@ -247,7 +247,7 @@ For journalists, activists, and anyone handling sensitive content in Ukraine —
   "name": "ProtonVPN Review for Ukraine 2026",
   "description": "ProtonVPN review for Ukraine: Swiss privacy, free plan, and Proton ecosystem.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-03-29",
+  "dateModified": "2026-04-03",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

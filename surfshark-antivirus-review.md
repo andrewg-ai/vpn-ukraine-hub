@@ -7,7 +7,7 @@ lang: en
 
 # Surfshark Antivirus Review 2026: Is It Worth It for Ukrainian Users?
 
-> Last updated: March 2026 | Author: Andrii Hnitko
+> Last updated: April 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🛡️ Surfshark Antivirus — Protection + VPN in One Package
