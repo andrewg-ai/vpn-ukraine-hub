@@ -206,7 +206,7 @@ The only reason it's not rated higher: NordVPN delivers 95% of the same performa
   "name": "ExpressVPN Review for Ukraine 2026",
   "description": "ExpressVPN review for Ukrainian users: fastest speeds, Lightway protocol, and reliability.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

@@ -147,7 +147,7 @@ Defender фокусується на базовому захисті від шк
   "@type": "Article",
   "headline": "Surfshark Antivirus vs Windows Defender 2026",
   "description": "Детальне порівняння Surfshark Antivirus і Windows Defender — функції, ціна, захист, для кого що підходить.",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "publisher": {"@type": "Organization", "name": "VPN Ukraine Hub"},
   "inLanguage": "uk"

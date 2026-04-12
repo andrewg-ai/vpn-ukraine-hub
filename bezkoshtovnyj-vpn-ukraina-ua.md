@@ -135,7 +135,7 @@ HideMyName має безкоштовний пробний день і серве
   "name": "Безкоштовний VPN для України 2026: Топ-4",
   "description": "Кращі безкоштовні VPN для України 2026 без обмежень трафіку.",
   "inLanguage": "uk",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "item": {"@type": "SoftwareApplication", "name": "ProtonVPN Free", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "41000"}, "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"}},
     {"@type": "ListItem", "position": 2, "item": {"@type": "SoftwareApplication", "name": "Windscribe", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.4", "reviewCount": "12000"}}},

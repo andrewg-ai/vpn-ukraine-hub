@@ -173,7 +173,7 @@ For Ukrainian torrent users:
   "@type": "ItemList",
   "name": "Best VPN for Torrenting in Ukraine 2026",
   "description": "Top VPNs for safe P2P downloads from Ukraine — kill switch, P2P servers, and no-logs policy",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "mainEntity": {
     "@type": "FAQPage",
     "mainEntity": [

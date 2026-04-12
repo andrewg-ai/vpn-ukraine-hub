@@ -149,7 +149,7 @@ For Ukrainian users who need both privacy (VPN) and malware protection, Surfshar
   "@type": "Article",
   "headline": "Surfshark Antivirus vs Windows Defender 2026",
   "description": "Detailed comparison of Surfshark Antivirus and Windows Defender — features, price, protection, and which one is right for you.",
-  "dateModified": "2026-04-03",
+  "dateModified": "2026-04-12",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "publisher": {"@type": "Organization", "name": "VPN Ukraine Hub"}
 }
