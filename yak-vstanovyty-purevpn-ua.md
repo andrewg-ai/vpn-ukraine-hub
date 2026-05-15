@@ -227,7 +227,7 @@ WireGuard — найшвидший і найнадійніший протоко�
   "description": "Покрокова інструкція встановлення PureVPN на Windows, Android і iPhone для України.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "totalTime": "PT5M",
   "estimatedCost": {"@type": "MonetaryAmount", "currency": "USD", "value": "2.29"},

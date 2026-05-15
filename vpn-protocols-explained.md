@@ -1,6 +1,6 @@
 ﻿# VPN Protocols Explained 2026: WireGuard vs OpenVPN vs IKEv2
 
-> Last updated: April 2026 | Author: Andrii Hnitko
+> Last updated: May 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🔧 VPN Protocols Explained 2026
@@ -208,7 +208,7 @@ The easiest approach: set protocol to **Auto** in your VPN app and let it choose
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "VPN Protocols Explained 2026: WireGuard vs OpenVPN vs IKEv2",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "description": "Complete guide to VPN protocols for Ukrainian users — WireGuard, OpenVPN, IKEv2, Lightway explained in plain language",
   "mainEntity": {

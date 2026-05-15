@@ -149,7 +149,7 @@ HideMyName — один з небагатьох VPN з фокусом на ук�
   "name": "Кращий VPN для України 2026: Топ-5",
   "description": "Порівняння найкращих VPN для України 2026 з цінами, швидкістю та оплатою карткою UA.",
   "inLanguage": "uk",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "item": {"@type": "SoftwareApplication", "name": "NordVPN", "offers": {"@type": "Offer", "price": "3.99", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "85000"}, "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"}},
     {"@type": "ListItem", "position": 2, "item": {"@type": "SoftwareApplication", "name": "ProtonVPN", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "41000"}, "url": "https://go.getproton.me/aff_c?offer_id=26&aff_id=16729"}},

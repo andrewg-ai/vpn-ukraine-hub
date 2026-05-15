@@ -176,7 +176,7 @@ NordVPN швидший на 7–8% завдяки протоколу NordLynx. �
   "description": "Детальне порівняння PureVPN і NordVPN для України 2026: ціна, швидкість, функції.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "mainEntity": {
     "@type": "FAQPage",

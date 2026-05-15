@@ -197,7 +197,7 @@ nordvpn.com → My Account → Subscription → Cancel. Рефанд протя�
   "name": "NordVPN Огляд 2026: Ціни, Швидкість і Оплата Карткою в Україні",
   "description": "Чесний огляд NordVPN для України 2026: ціни від $3.99, оплата ПриватБанком і Монобанком, тест швидкості, плюси і мінуси.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"

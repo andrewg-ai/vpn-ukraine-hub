@@ -118,7 +118,7 @@ NordVPN або ProtonVPN — обидва надійні, не блокують�
   "name": "VPN для Віддаленої Роботи в Україні 2026",
   "description": "Кращі VPN для фрілансерів і remote workers в Україні 2026.",
   "inLanguage": "uk",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "item": {"@type": "SoftwareApplication", "name": "NordVPN", "offers": {"@type": "Offer", "price": "3.99", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "85000"}, "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142707&url_id=902"}},
     {"@type": "ListItem", "position": 2, "item": {"@type": "SoftwareApplication", "name": "IPVanish", "offers": {"@type": "Offer", "price": "3.33", "priceCurrency": "USD"}, "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.5", "reviewCount": "22000"}, "url": "https://affiliate.ipvanish.com/aff_c?offer_id=1&aff_id=4819"}},

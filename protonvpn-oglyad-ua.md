@@ -261,7 +261,7 @@ Visa і Mastercard від усіх українських банків прий�
   "description": "Огляд ProtonVPN для України 2026: безкоштовний план без обмежень трафіку, ціни від $4.99, швейцарська приватність.",
   "inLanguage": "uk",
   "datePublished": "2026-03-11",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "author": {"@type": "Person", "name": "Andrii Hnitko"},
   "reviewRating": {"@type": "Rating", "ratingValue": "4.7", "bestRating": "5"},
   "itemReviewed": {

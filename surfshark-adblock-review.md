@@ -7,7 +7,7 @@ lang: en
 
 # Surfshark Adblock Review 2026: Does CleanWeb Actually Work?
 
-> Last updated: April 2026 | Author: Andrii Hnitko
+> Last updated: May 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🚫 Surfshark Adblock (CleanWeb) — Ads, Trackers, Malicious Sites

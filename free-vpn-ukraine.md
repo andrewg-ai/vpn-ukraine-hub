@@ -1,6 +1,6 @@
 ﻿# Best Free VPN for Ukraine 2026: 5 Actually Works (No Credit Card)
 
-> Last updated: April 2026 | Author: Andrii Hnitko
+> Last updated: May 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🆓 Best Free VPN for Ukraine 2026 — 5 That Actually Work
@@ -206,7 +206,7 @@ If you find yourself hitting data limits regularly, it's worth considering a pai
   "@type": "ItemList",
   "name": "Best Free VPNs for Ukraine 2026",
   "description": "Tested free VPN options that work in Ukraine without speed caps or data limits.",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "itemListElement": [
     {
       "@type": "ListItem",

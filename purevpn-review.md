@@ -1,6 +1,6 @@
 ﻿# PureVPN Review 2026: Is It Worth It for Ukrainian Users?
 
-> Last updated: April 2026 | Author: Andrii Hnitko
+> Last updated: May 2026 | Author: Andrii Hnitko
 
 ---
 > ### 🔒 PureVPN Review 2026 — Is It Worth It for Ukrainian Users?
@@ -119,7 +119,7 @@ A: Yes — PureVPN works from Ukraine with good performance to EU servers. Ukrai
   "name": "PureVPN Review for Ukraine 2026",
   "description": "PureVPN review for Ukrainian users: pricing, speed, and payment options.",
   "datePublished": "2026-03-20",
-  "dateModified": "2026-04-12",
+  "dateModified": "2026-05-16",
   "author": {
     "@type": "Person",
     "name": "Andrii Hnitko"
